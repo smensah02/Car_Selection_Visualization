@@ -1,5 +1,8 @@
 # Car_Selection_Visualization
  
+<div align="center">
+  <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
+</div>
  
 ## Data Analysis for Buying a Company Car
 ### Problem Statement
@@ -91,4 +94,5 @@ Figure 4(Purchase Price Vs. Resale Value)
 Figure 5(Features with weight 10 and 7)
 
 
+#### Additional visualizations can be found on car visualization pdf file.
 #### Sources can be found in the Car_Visualization_Report.
