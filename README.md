@@ -1,7 +1,7 @@
 # Car_Selection_Visualization
  
 <div align="center">
-  <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
+  <img src=" "><br>
 </div>
  
 ## Data Analysis for Buying a Company Car
