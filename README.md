@@ -1,8 +1,5 @@
 # Car_Selection_Visualization
  
-<div align="center">
-  <img src=" "><br>
-</div>
  
 ## Data Analysis for Buying a Company Car
 ### Problem Statement
